@@ -13,19 +13,19 @@ OpenTAB is a free tool that accelerates your development -- now in preview and t
 
 ### Refactor Your Code Effortlessly
 
-![](https://media.githubusercontent.com/media/tab-research-preview/tab-research-preview/refs/heads/main/refactor.gif)
+![](https://raw.githubusercontent.com/tab-research-preview/tab-research-preview/main/refactor.gif)
 
 ### Fix Errors and Bugs
 
-![](https://media.githubusercontent.com/media/tab-research-preview/tab-research-preview/refs/heads/main/debug.gif)
+![](https://raw.githubusercontent.com/tab-research-preview/tab-research-preview/main/debug.gif)
 
 ### Autocomplete Your Implementation with multi-line edits
 
-![](https://media.githubusercontent.com/media/tab-research-preview/tab-research-preview/refs/heads/main/implement.gif)
+![](https://raw.githubusercontent.com/tab-research-preview/tab-research-preview/main/implement.gif)
 
 ### Predict Your Next Edit with Jump 
 
-![](https://media.githubusercontent.com/media/tab-research-preview/tab-research-preview/refs/heads/main/jump.gif)
+![](https://raw.githubusercontent.com/tab-research-preview/tab-research-preview/main/jump.gif)
 
 ## Future Timeline
 * Open-source soon!
